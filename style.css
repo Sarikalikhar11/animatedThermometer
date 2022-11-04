@@ -1,0 +1,23 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+body{
+    background-color:rgb(31, 31, 124);
+}
+.inner{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    margin-top:150px;
+    padding:20px;
+}
+.main-heading{
+    font-size:180px ;
+    font-weight: 600;
+}
+h1{
+    
+    color:white;
+}
